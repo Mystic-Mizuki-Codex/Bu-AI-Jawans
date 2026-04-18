@@ -37,16 +37,19 @@ Clone the repository and install dependencies using `uv`:
 uv venv
 source .venv/bin/activate
 uv pip install flet groq pydantic python-dotenv
+```
 
 ### 3. Environment Setup
 Create a `.env` file in the root directory:
 ```env
 GROQ_API_KEY=your_gsk_key_here
+```
 
 ### 4. Running the App
 Execute the dashboard directly from your terminal:
 ```bash
 python app.py
+```
 
 ## 🧠 How It Works
 
