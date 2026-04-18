@@ -1,4 +1,4 @@
-# 🚀 Opportunity Copilot v2.0
+# 🚀 Opportunity Copilot 
 
 **Opportunity Copilot** is a high-performance, AI-driven dashboard designed to automate the discovery and ranking of academic and professional opportunities. Built specifically for students in the **Artificial Intelligence** department, it uses Large Language Models (LLMs) to scan messy inbox data, extract key metadata, and rank opportunities based on a deterministic scoring engine.
 
