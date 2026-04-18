@@ -62,9 +62,9 @@ python app.py
 
 ## 👨‍💻 Author
 
-**Rana Muhammad Afnan**
-**Muhammad Saim Khan**
-**Hassan Faisal** 
+* **Rana Muhammad Afnan**
+* **Muhammad Saim Khan**
+* **Hassan Faisal** 
 
 
 
